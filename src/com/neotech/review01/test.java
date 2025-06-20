@@ -7,5 +7,15 @@ public class test {
 
 		System.out.println("test");
 	}
+	
+	
+	public void test1() {
+		
+	}
+	
+	public void test2() {
+		
+	}
+
 
 }
