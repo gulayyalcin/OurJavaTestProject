@@ -7,7 +7,7 @@ public class Calculator {
 	// Ask the user for the operator (+,-,*,/)
 	// Calculate the result using if-else
 
-	
+	// CHANGES HAS BEEN MADE 
 	
 	//this is a change
 	public static void main(String[] args) {
