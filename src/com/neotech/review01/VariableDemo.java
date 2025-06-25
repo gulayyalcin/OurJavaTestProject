@@ -6,7 +6,8 @@ package com.neotech.review01;
 
 
 
-//test
+
+//test1
 public class VariableDemo {
 
 	public static void main(String[] args) {
